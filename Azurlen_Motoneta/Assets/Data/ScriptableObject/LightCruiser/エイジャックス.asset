@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0edf95693ee9a5344b06335234b903a3, type: 3}
+  m_Name: "\u30A8\u30A4\u30B8\u30E3\u30C3\u30AF\u30B9"
+  m_EditorClassIdentifier: 
+  Name: "\u30A8\u30A4\u30B8\u30E3\u30C3\u30AF\u30B9"
+  Type: LightCruiser
+  Camp: "\u30ED\u30A4\u30E4\u30EB"
+  Rarity: R
+  History: "\u767A\u6CE8:\n1795\u5E741\u670810\u65E5\n-\n\u5EFA\u9020:\n\u30E9\u30F3\u30C7\u30FC\u30EB\uFF08\u30ED\u30B6\u30FC\u30CF\u30A4\u30B9\uFF09\n-\n\u9032\u6C34:\n1798\u5E743\u67083\u65E5\n-\n\u305D\u306E\u5F8C:\n1807\u5E74\u713C\u640D\n\n"
+  Description: "\u30A8\u30A4\u30B8\u30E3\u30C3\u30AF\u30B9(''HMSAjax''\uFF09\u306F1798\u5E743\u67083\u65E5\u306B\u30ED\u30B6\u30FC\u30CF\u30A4\u30B9\u3067\u9032\u6C34\u3057\u305F\u30A8\u30A4\u30B8\u30E3\u30C3\u30AF\u30B9\u7D1A\u6226\u5217\u8266\u30A8\u30A4\u30B8\u30E3\u30C3\u30AF\u30B9\u7D1A74\u9580\u826674\u95803\u7B49\u82663\u7B49\u6226\u5217\u8266\u3002\n\n\u53C2\u52A0\u6D77\u6226\n*\u30D5\u30A3\u30CB\u30B9\u30C6\u30EC\u5CAC\u306E\u6D77\u6226\n\u30C8\u30E9\u30D5\u30A1\u30EB\u30AC\u30FC\u306E\u6D77\u6226\n*\u30C0\u30FC\u30C0\u30CD\u30EB\u30B9\u4F5C\u6226\u4F5C\u6226\u4E2D\u4E8B\u6545\u3067\u55AA\u5931\n\n
+    https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E6%88%A6%E5%88%97%E8%89%A6%E3%83%BB2%E4%BB%A3)\n\n"
